@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\fcc-tut-vid\bin\Debug\net5.0\fcc-tut-vid.exe
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\fcc-tut-vid\bin\Debug\net5.0\fcc-tut-vid.deps.json
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\fcc-tut-vid\bin\Debug\net5.0\fcc-tut-vid.runtimeconfig.json
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\fcc-tut-vid\bin\Debug\net5.0\fcc-tut-vid.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\fcc-tut-vid\bin\Debug\net5.0\fcc-tut-vid.dll
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\fcc-tut-vid\bin\Debug\net5.0\ref\fcc-tut-vid.dll
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\fcc-tut-vid\bin\Debug\net5.0\fcc-tut-vid.pdb
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\fcc-tut-vid\obj\Debug\net5.0\fcc-tut-vid.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\fcc-tut-vid\obj\Debug\net5.0\fcc-tut-vid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\fcc-tut-vid\obj\Debug\net5.0\fcc-tut-vid.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\fcc-tut-vid\obj\Debug\net5.0\fcc-tut-vid.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\fcc-tut-vid\obj\Debug\net5.0\fcc-tut-vid.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\fcc-tut-vid\obj\Debug\net5.0\fcc-tut-vid.dll
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\fcc-tut-vid\obj\Debug\net5.0\ref\fcc-tut-vid.dll
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\fcc-tut-vid\obj\Debug\net5.0\fcc-tut-vid.pdb
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\fcc-tut-vid\obj\Debug\net5.0\fcc-tut-vid.genruntimeconfig.cache
