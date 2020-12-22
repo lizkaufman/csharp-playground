@@ -1,11 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
 
-namespace fcc_tut_vid
+namespace exponent_calc
 {
     class Program
     {
-        static void Main(string[] args)
+      static void Main(string[] args)
         {
             Console.WriteLine("What number do you want to start with? ");
             int baseNum = Int32.Parse(Console.ReadLine());
@@ -13,7 +12,6 @@ namespace fcc_tut_vid
             int power = Int32.Parse(Console.ReadLine());
             Console.WriteLine($"Your solution is: {GetPower(baseNum, power)}");
         }
-
         static int GetPower(int baseNum, int power)
         {
             int result = baseNum;
