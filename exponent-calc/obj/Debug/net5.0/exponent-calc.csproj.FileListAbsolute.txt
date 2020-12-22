@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\exponent-calc\bin\Debug\net5.0\exponent-calc.exe
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\exponent-calc\bin\Debug\net5.0\exponent-calc.deps.json
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\exponent-calc\bin\Debug\net5.0\exponent-calc.runtimeconfig.json
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\exponent-calc\bin\Debug\net5.0\exponent-calc.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\exponent-calc\bin\Debug\net5.0\exponent-calc.dll
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\exponent-calc\bin\Debug\net5.0\ref\exponent-calc.dll
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\exponent-calc\bin\Debug\net5.0\exponent-calc.pdb
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\exponent-calc\obj\Debug\net5.0\exponent-calc.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\exponent-calc\obj\Debug\net5.0\exponent-calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\exponent-calc\obj\Debug\net5.0\exponent-calc.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\exponent-calc\obj\Debug\net5.0\exponent-calc.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\exponent-calc\obj\Debug\net5.0\exponent-calc.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\exponent-calc\obj\Debug\net5.0\exponent-calc.dll
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\exponent-calc\obj\Debug\net5.0\ref\exponent-calc.dll
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\exponent-calc\obj\Debug\net5.0\exponent-calc.pdb
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\exponent-calc\obj\Debug\net5.0\exponent-calc.genruntimeconfig.cache

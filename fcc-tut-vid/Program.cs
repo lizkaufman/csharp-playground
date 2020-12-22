@@ -5,23 +5,6 @@ namespace fcc_tut_vid
 {
     class Program
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("What number do you want to start with? ");
-            int baseNum = Int32.Parse(Console.ReadLine());
-            Console.WriteLine("What power do you want to multiply it to? ");
-            int power = Int32.Parse(Console.ReadLine());
-            Console.WriteLine($"Your solution is: {GetPower(baseNum, power)}");
-        }
-
-        static int GetPower(int baseNum, int power)
-        {
-            int result = baseNum;
-            for (int i = power; i > 1; i--)
-            {
-                result *= baseNum;
-            }
-            return result;
-        }
+        
     }
 }
