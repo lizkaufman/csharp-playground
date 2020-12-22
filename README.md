@@ -1,6 +1,6 @@
 # C# Playground
 
-This is where I'm starting to teach myself C#, doing the classic beginner's programs (hello world, greeter, etc.) and experimenting with different features of the language.
+This is where I'm starting to teach myself C#, doing the classic beginner's programs and experimenting with different features of the language.
 
 Most of these are inspired by the activities in [this video](https://www.youtube.com/watch?v=GhQdlIFylQ8&t=9482s), but I've put my own spin on them. :)
 
