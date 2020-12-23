@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\library-books\obj\Debug\net5.0\library-books.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\library-books\obj\Debug\net5.0\library-books.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\library-books\obj\Debug\net5.0\library-books.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\library-books\obj\Debug\net5.0\library-books.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\library-books\obj\Debug\net5.0\library-books.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\library-books\bin\Debug\net5.0\library-books.exe
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\library-books\bin\Debug\net5.0\library-books.deps.json
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\library-books\bin\Debug\net5.0\library-books.runtimeconfig.json
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\library-books\bin\Debug\net5.0\library-books.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\library-books\bin\Debug\net5.0\library-books.dll
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\library-books\bin\Debug\net5.0\ref\library-books.dll
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\library-books\bin\Debug\net5.0\library-books.pdb
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\library-books\obj\Debug\net5.0\library-books.dll
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\library-books\obj\Debug\net5.0\ref\library-books.dll
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\library-books\obj\Debug\net5.0\library-books.pdb
+C:\Users\Admin\Desktop\Projects\EMPLOYMENT\SoC\Projects\learning-c#\c#-playground\library-books\obj\Debug\net5.0\library-books.genruntimeconfig.cache
