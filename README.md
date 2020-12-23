@@ -13,3 +13,5 @@ Mini-projects:
 5. **fibonacci** - prints out first 20 numbers in Fibonacci sequence
 6. **calculator** - does basic calculations with two numbers and an operator inputted by the user in the console
 7. **guess-the-word** - two-player word guessing game in the console
+8. **exponent-calc** - multiplies numbers by powers; includes try/catch error handling
+9. **library-books** - creates Book objects w/ class and constructor functions
